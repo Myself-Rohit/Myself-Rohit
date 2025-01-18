@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rohitnegi263139@gmail.com**
 
-- 📄 Know about my experiences [https://resume-rohit.tiiny.site](https://resume-rohit.tiiny.site)
+- 📄 Know about my experiences [https://rohit-negi.tiiny.site](https://rohit-negi.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
