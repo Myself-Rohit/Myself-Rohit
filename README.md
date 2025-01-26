@@ -5,13 +5,13 @@
 <h3 align="left">Badges:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myself-rohit&show_icons=true&theme=dracula&row=1&column=5" alt="myself-rohit" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://fancy-salamander-26ac46.netlify.app/](https://fancy-salamander-26ac46.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fancy-salamander-26ac46.netlify.app](https://fancy-salamander-26ac46.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rohitnegi263139@gmail.com**
 
-- 📄 Know about my experiences [https://rohit-negi.tiiny.site](https://rohit-negi.tiiny.site)
+- 📄 Know about my experiences [https://rohitnegi.tiiny.site](https://rohitnegi.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
